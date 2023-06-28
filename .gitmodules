@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "promote"]
 	path = promote
 	url = https://github.com/alteryx/promote-r-client
-	shallow = true
-	registered = true
